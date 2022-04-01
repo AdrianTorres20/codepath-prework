@@ -6,7 +6,7 @@ Submitted by: **Adrian Torres**
 
 Time spent: **15** hours spent in total
 
-Link to project: (https://glitch.com/edit/#!/spangle-verbena-grasshopper)
+Link to project: Live site: https://spangle-verbena-grasshopper.glitch.me Code: https://glitch.com/edit/#!/spangle-verbena-grasshopper
 
 ## Required Functionality
 
