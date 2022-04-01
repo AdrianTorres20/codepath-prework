@@ -39,6 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
+
 Start and stop buttons
 ![](http://g.recordit.co/EYQXSw9qEd.gif)
 
